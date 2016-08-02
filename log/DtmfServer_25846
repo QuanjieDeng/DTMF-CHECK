@@ -1,0 +1,3 @@
+Jul 17 14:02:18 INFO[25846]	: mode:12
+Jul 17 14:02:18 INFO[25846]	: DatagramSocket.cpp:201: Entry func UDPRecvStartThread
+Jul 17 14:02:18 INFO[25848]	: DatagramSocket.cpp:20: Entry func UDPMsgRecv_thread!

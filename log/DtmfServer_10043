@@ -1,0 +1,19 @@
+Jul 17 14:31:23 INFO[10043]	: mode:12
+Jul 17 14:31:23 INFO[10043]	: DatagramSocket.cpp:201: Entry func UDPRecvStartThread
+Jul 17 14:31:23 INFO[10045]	: DatagramSocket.cpp:20: Entry func UDPMsgRecv_thread!
+Jul 17 14:31:38 INFO[10055]	: rtpptoxy_reqInfo.cpp:159:  the pack is RFC2833 dtnf:[0]
+Jul 17 14:31:38 INFO[10049]	: rtpptoxy_reqInfo.cpp:159:  the pack is RFC2833 dtnf:[0]
+Jul 17 14:31:38 INFO[10046]	: rtpptoxy_reqInfo.cpp:159:  the pack is RFC2833 dtnf:[0]
+Jul 17 14:31:38 INFO[10050]	: rtpptoxy_reqInfo.cpp:159:  the pack is RFC2833 dtnf:[0]
+Jul 17 14:31:38 INFO[10053]	: rtpptoxy_reqInfo.cpp:159:  the pack is RFC2833 dtnf:[0]
+Jul 17 14:31:38 INFO[10055]	: rtpptoxy_reqInfo.cpp:159:  the pack is RFC2833 dtnf:[0]
+Jul 17 14:31:38 INFO[10049]	: rtpptoxy_reqInfo.cpp:159:  the pack is RFC2833 dtnf:[0]
+Jul 17 14:31:38 INFO[10046]	: rtpptoxy_reqInfo.cpp:159:  the pack is RFC2833 dtnf:[0]
+Jul 17 14:31:38 INFO[10046]	: rtpptoxy_reqInfo.cpp:167: new DTNF:[5]
+
+Jul 17 14:31:38 INFO[10050]	: rtpptoxy_reqInfo.cpp:159:  the pack is RFC2833 dtnf:[0]
+Jul 17 14:31:38 INFO[10050]	: rtpptoxy_reqInfo.cpp:167: new DTNF:[5]
+
+Jul 17 14:31:38 INFO[10053]	: rtpptoxy_reqInfo.cpp:159:  the pack is RFC2833 dtnf:[0]
+Jul 17 14:31:38 INFO[10053]	: rtpptoxy_reqInfo.cpp:167: new DTNF:[5]
+

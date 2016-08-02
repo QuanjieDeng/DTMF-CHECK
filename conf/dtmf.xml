@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<DTMFServer>
+    <loglevel>DEBUG</loglevel>
+    <logsize>200</logsize>
+    <lognum>20</lognum>
+    <local_ip>10.0.0.101</local_ip>
+    <local_port>9998</local_port>
+    <RTPPROXY_ip>10.0.0.152</RTPPROXY_ip>
+    <RTPPROXY_port>1000</RTPPROXY_port>
+</DTMFServer>

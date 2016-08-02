@@ -1,0 +1,5 @@
+
+CC=/usr/bin/g++ -g3 -m64 
+BUILDPATH=/home/quanjie/DTMFServer
+
+INCLUDES += -I${BUILDPATH}/code/common/h -I${BUILDPATH}/code/dtmf/h -I${BUILDPATH}/code/xml/h 
